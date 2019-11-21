@@ -4,6 +4,7 @@ Experimental settings to test EMGs as an extended markov decision process to tra
 ## Installation instructions
 
 You might clone this repository by running:
+
 	git clone https://github.com/bgLeon/EMG.git
 
 This repository requires [Python3.5](https://www.python.org/) with three libraries: [numpy](http://www.numpy.org/), [tensorflow](https://www.tensorflow.org/), and [sympy](http://www.sympy.org). 
