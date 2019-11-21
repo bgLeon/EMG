@@ -1,0 +1,3 @@
+[6, 9, 11, 8, 10, 21, 20, 20, 13, 26] # Value optimal policy for solution experiment 1
+[6, 9, 11, 8, 10, 19, 20, 13, 13, 26] # Value optimal policy for solution experiment 2
+[6, 9, 24, 8, 26, 27, 28, 21, 29, 45] # Value optimal policy for solution experiment 3

@@ -1,0 +1,21 @@
+XXXXXXXXXXXXXXXXXXXXX
+X  a     a      e   X
+X    f    f         X
+X                   X
+X      g            X
+X                   X
+X                  dX
+X                   X
+X    d b   sssssssssX
+X          sssssssssX
+X         AsssssssssX
+X          sssssssssX
+X   d      sssssssssX
+X    a        d    fX
+X                  gX
+X    a              X
+X      a          ccX
+X            f      X
+X    b          e  fX
+X        h  d      hX
+XXXXXXXXXXXXXXXXXXXXX

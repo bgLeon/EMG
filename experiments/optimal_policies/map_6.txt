@@ -1,0 +1,3 @@
+[14, 15, 18, 14, 20, 21, 20, 19, 29, 35] # Value optimal policy for solution experiment 1
+[14, 15, 18, 14, 20, 17, 18, 15, 27, 33] # Value optimal policy for solution experiment 2
+[24, 25, 26, 22, 29, 27, 27, 25, 69, 48] # Value optimal policy for solution experiment 3
