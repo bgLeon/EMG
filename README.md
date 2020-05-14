@@ -13,7 +13,7 @@ This repository requires [Python3.5](https://www.python.org/) with three librari
 
 To run any of the algorithms, execute *run_experiments.py*. This code receives 3 parameters: The RL algorithm to use (which might be "i-dqn-l" or "i-lpopl"), the tasks to solve (which might be "sequence", "interleaving", "safety"), the maximum number of steps for the agent or agents to learn, an option to choose running multi-agent or single-agent (a boleen True or False for multi-agent), and a render option to render the map with the agents while learning. For instance, the following command solves the 10 *sequence specifications* using I-LPOPL with multiple agents:
 
-    python3 run_experiments.py --algorithm="i-lpopl" --tasks="sequence" 
+    python3 run_experiments.py --algorithm="i-lpopl" --specifications="sequence" 
 
 To run the same configuration for the single agent experiment just add --singleA
 
