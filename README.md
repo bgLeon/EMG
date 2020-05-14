@@ -7,7 +7,7 @@ You might clone this repository by running:
 
 	git clone https://github.com/bgLeon/EMG.git
 
-This repository requires [Python3.5](https://www.python.org/) with three libraries: [numpy](http://www.numpy.org/), [tensorflow](https://www.tensorflow.org/), and [sympy](http://www.sympy.org). 
+This repository requires [Python3.5](https://www.python.org/) with three libraries: [numpy](http://www.numpy.org/), [tensorflow (V1.14)](https://www.tensorflow.org/), and [sympy](http://www.sympy.org). 
 
 ## Running examples
 
